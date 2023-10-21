@@ -4,9 +4,10 @@ tags:
 ---
 Rounds 1 - 9
 $$
-150 + 100*RoundNumber
+100\cdot RoundNumber+50
 $$
+
 Round 10+
 $$
-950 + 1.1 * RoundsPassedSince9
+950+1.1^{\left(RoundNumber-9\right)}
 $$

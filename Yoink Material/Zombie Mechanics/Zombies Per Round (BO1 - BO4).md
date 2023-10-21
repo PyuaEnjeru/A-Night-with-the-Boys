@@ -4,7 +4,7 @@ tags:
 ---
 ## Solo
  Hard Coded: 6, 8, 13, 18, 24, 27, 28, 28, 29
- Equation for Round 10+
+ Equation for Round 10+3
 $$
 0.09 *Round Number^2 +24 
 $$
