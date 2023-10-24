@@ -8,6 +8,7 @@
  In Cold War its feels discouraging to get all the perks since you get the necessary perks for the cheap initial price (2500 + 500 * (PerkNumber - 1)) and with the vast amount of perks in Cold War it eventually means the last perk costs 7000 which makes it not worth it, especially with the total cost of perks ending up being 47,500! WOW!
  Re perking just the essential 5 perks costs 17,500 (Juggernaug, Quick Revive, Staminup, Deadshot and Speed)
  Even with the Perk Upgrading System of Cold War some of the perks are just Lack-Luster even at Level 5 or even debatably worse at max rank
+ With the level up system for Cold war it feels nice to have them at max rank, the progression for each does not feel good. It also brings in some role compression such as electric cherry being rolled into the level 5 of Elemental pop
 
  There's also the loose change Easter Egg which gives 100 points under each machine for fun competition amongst friends to get the small amount of points
 
@@ -18,7 +19,8 @@
  There should be a Perk Machine and/or a Spot to get all perks available in the game
  Each perk should have a set cost
  Togglable Upgrades for extra challenge/Different setups for different situations
-
+ Don't all necessarily have to be the same "Food" Item like it is in COD with the sodas,
+ But can be a variety of consumables I think, that way a bunch of several ideas can come from it and not seem stale.
 ## Implementation 
  {Perk Name} (Stage of Name)
   {Proposed Names}:
@@ -33,7 +35,7 @@
   Tier 4: 
   Tier 5: 
 
- Headshot Helper (Place Holder)
+ {Headshot Helper} (Place Holder)
   {Proposed Names}: Headshot Helper
   {Proposed Cost}
   {Proposed Lore}
@@ -98,4 +100,3 @@
   Tier 4: The Mystery Box settles much faster
   Tier 5: Fire and reload while sprinting at full speed.
 ## Execution
-/git
